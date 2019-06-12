@@ -1,0 +1,9 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\bin\Debug\netstandard2.0\RabbitMQDemo.Common.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\bin\Debug\netstandard2.0\RabbitMQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\bin\Debug\netstandard2.0\RabbitMQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\obj\Debug\netstandard2.0\RabbitMQDemo.Common.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\obj\Debug\netstandard2.0\RabbitMQDemo.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\obj\Debug\netstandard2.0\RabbitMQDemo.Common.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\obj\Debug\netstandard2.0\RabbitMQDemo.Common.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\obj\Debug\netstandard2.0\RabbitMQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Common\obj\Debug\netstandard2.0\RabbitMQDemo.Common.pdb
