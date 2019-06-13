@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\bin\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.WorkQueues\obj\Debug\netcoreapp2.2\RabbitMQDemo.WorkQueues.pdb

@@ -9,12 +9,6 @@ namespace RabbitMQDemo.HelloWorld
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("消费者");
-            //Customer customer = new Customer("localhost");
-            //customer.Receive("hello", (message) =>
-            //{
-            //    Console.WriteLine(string.Format("{0}接收消息：{1}", DateTime.Now.ToString("HH:mm:ss"), message));
-            //});
             Task.Run(() =>
             {
                 Console.WriteLine("消费者");
