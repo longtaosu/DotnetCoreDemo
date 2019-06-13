@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.HelloWorld", "RabbitMQDemo.HelloWorld\RabbitMQDemo.HelloWorld.csproj", "{933FB570-CC16-4A8C-A709-D38F4AF0DBEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQDemo.Common", "RabbitMQDemo.Common\RabbitMQDemo.Common.csproj", "{35AD5D85-3590-4CB9-BA10-2A04EACC3A05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.Common", "RabbitMQDemo.Common\RabbitMQDemo.Common.csproj", "{35AD5D85-3590-4CB9-BA10-2A04EACC3A05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQDemo.WorkQueues", "RabbitMQDemo.WorkQueues\RabbitMQDemo.WorkQueues.csproj", "{3783B0E4-00A3-4CFD-A0F9-81606FE89AB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.WorkQueues", "RabbitMQDemo.WorkQueues\RabbitMQDemo.WorkQueues.csproj", "{3783B0E4-00A3-4CFD-A0F9-81606FE89AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQDemo.PublishSubscribe", "RabbitMQDemo.PublishSubscribe\RabbitMQDemo.PublishSubscribe.csproj", "{5FD79178-8A43-4C09-8325-3B331C00FB24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3783B0E4-00A3-4CFD-A0F9-81606FE89AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3783B0E4-00A3-4CFD-A0F9-81606FE89AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3783B0E4-00A3-4CFD-A0F9-81606FE89AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD79178-8A43-4C09-8325-3B331C00FB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD79178-8A43-4C09-8325-3B331C00FB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD79178-8A43-4C09-8325-3B331C00FB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD79178-8A43-4C09-8325-3B331C00FB24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

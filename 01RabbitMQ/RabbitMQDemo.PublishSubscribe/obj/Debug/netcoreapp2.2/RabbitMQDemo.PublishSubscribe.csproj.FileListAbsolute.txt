@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.PublishSubscribe\obj\Debug\netcoreapp2.2\RabbitMQDemo.PublishSubscribe.pdb

@@ -76,5 +76,26 @@ namespace RabbitMQDemo.Common
             }
         }
 
+        public void Send_PublishSubscribe(string queue, string routingKey, string message, string exchange = "", bool durable = false, bool exclusive = false, bool autoDelete = false)
+        {
+            using (var connection = factory.CreateConnection())
+            {
+                using (var channel = connection.CreateModel())
+                {
+                    channel.ExchangeDeclare(exchange: "logs", type: "fanout");
+
+                    //将消息转换为bytes数组，发送消息
+                    var messageSend = Encoding.UTF8.GetBytes(message);
+                    var properties = channel.CreateBasicProperties();
+                    properties.Persistent = true;
+                    /*消息持久化*/
+                    channel.BasicPublish(exchange: "logs",
+                                         routingKey: "",
+                                         basicProperties: properties,
+                                         body: messageSend);
+                }
+            }
+        }
+
     }
 }

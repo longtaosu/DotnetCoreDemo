@@ -94,5 +94,53 @@ namespace RabbitMQDemo.Common
 
             }
         }
+
+        public void Receive_PublishSubscribe(string queue, Action<string> action, string exchange = "", bool durable = false, bool exclusive = false, bool autoDelete = false)
+        {
+            //消息结果
+            string message;
+            //创建连接
+            using (var connection = factory.CreateConnection())
+            using (var channel = connection.CreateModel())
+            {
+                //声明Exchange
+                channel.ExchangeDeclare(exchange: "logs", type: "fanout");
+                //获取queueName队列名称
+                var queueName = channel.QueueDeclare().QueueName;
+                //队列绑定Exchange
+                channel.QueueBind(queue: queueName, 
+                                  exchange: "logs", 
+                                  routingKey: "");
+
+                //声明队列
+                channel.QueueDeclare(queue: queue,
+                                     durable: durable,
+                                     exclusive: exclusive,
+                                     autoDelete: autoDelete,
+                                     arguments: null);
+                //将消息分发到空闲的worker
+                //channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
+
+                //通过事件订阅消息
+                var consumer = new EventingBasicConsumer(channel);
+                consumer.Received += (model, ea) =>
+                {
+                    var body = ea.Body;
+                    message = Encoding.UTF8.GetString(body);
+                    action.Invoke(message);
+                    /*手动发送消息确认信息*/
+                    channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
+                };
+                channel.BasicConsume(queue: queueName,
+                                     autoAck: false,//消息的默认ack关闭
+                                     consumer: consumer);
+                //一旦退出则无法接收消息
+                while (true)
+                {
+                    //Console.ReadLine();
+                }
+
+            }
+        }
     }
 }
