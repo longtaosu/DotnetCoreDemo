@@ -5,6 +5,9 @@ using System.Text;
 
 namespace RabbitMQDemo.Common
 {
+    /// <summary>
+    /// exchange type：direct、fanout
+    /// </summary>
     public class Producer
     {
         #region 属性
@@ -91,6 +94,34 @@ namespace RabbitMQDemo.Common
                     /*消息持久化*/
                     channel.BasicPublish(exchange: "logs",
                                          routingKey: "",
+                                         basicProperties: properties,
+                                         body: messageSend);
+                }
+            }
+        }
+        public void Send_Routing(string queue, string routingKey, string message, string exchange = "", bool durable = false, bool exclusive = false, bool autoDelete = false)
+        {
+            using (var connection = factory.CreateConnection())
+            {
+                using (var channel = connection.CreateModel())
+                {
+                    channel.ExchangeDeclare(exchange: "direct_logs",
+                                            type: "direct");
+                    var severity = "info";
+                    if (message.Contains("/"))
+                        severity = "error";
+                    else if (message.Contains("*"))
+                        severity = "warn";
+                    else
+                        severity = "info";
+
+                    //将消息转换为bytes数组，发送消息
+                    var messageSend = Encoding.UTF8.GetBytes(message);
+                    var properties = channel.CreateBasicProperties();
+                    properties.Persistent = true;
+                    /*消息持久化*/
+                    channel.BasicPublish(exchange: "direct_logs",
+                                         routingKey: severity,
                                          basicProperties: properties,
                                          body: messageSend);
                 }

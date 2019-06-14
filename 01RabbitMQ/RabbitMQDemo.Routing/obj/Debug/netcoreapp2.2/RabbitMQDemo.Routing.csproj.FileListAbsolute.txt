@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Routing.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Routing.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Routing.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Routing.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Routing.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.Routing\obj\Debug\netcoreapp2.2\RabbitMQDemo.Routing.pdb
