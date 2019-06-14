@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.Common", "Rabb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.WorkQueues", "RabbitMQDemo.WorkQueues\RabbitMQDemo.WorkQueues.csproj", "{3783B0E4-00A3-4CFD-A0F9-81606FE89AB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQDemo.PublishSubscribe", "RabbitMQDemo.PublishSubscribe\RabbitMQDemo.PublishSubscribe.csproj", "{5FD79178-8A43-4C09-8325-3B331C00FB24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.PublishSubscribe", "RabbitMQDemo.PublishSubscribe\RabbitMQDemo.PublishSubscribe.csproj", "{5FD79178-8A43-4C09-8325-3B331C00FB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQDemo.Routing", "RabbitMQDemo.Routing\RabbitMQDemo.Routing.csproj", "{9E0D5266-A30C-437C-AFCD-D898F8F53209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo.Routing", "RabbitMQDemo.Routing\RabbitMQDemo.Routing.csproj", "{9E0D5266-A30C-437C-AFCD-D898F8F53209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQDemo.Topics", "RabbitMQDemo.Topics\RabbitMQDemo.Topics.csproj", "{019B9EB3-CF81-49F2-B328-44C899F5FAF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9E0D5266-A30C-437C-AFCD-D898F8F53209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E0D5266-A30C-437C-AFCD-D898F8F53209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E0D5266-A30C-437C-AFCD-D898F8F53209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019B9EB3-CF81-49F2-B328-44C899F5FAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019B9EB3-CF81-49F2-B328-44C899F5FAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019B9EB3-CF81-49F2-B328-44C899F5FAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019B9EB3-CF81-49F2-B328-44C899F5FAF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

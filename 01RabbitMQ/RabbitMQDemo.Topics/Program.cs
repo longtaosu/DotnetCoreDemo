@@ -4,12 +4,13 @@ using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace RabbitMQDemo.Routing
+namespace RabbitMQDemo.Topics
 {
     /// <summary>
-    /// 发送字符串“.”代表执行时间
-    /// 字符串含“/”表示“error”信息，进task1处理
-    /// 否则全为“info”信息，进task2处理
+    /// 测试：
+    /// 发送：charge.*，c1处理
+    /// 发送：*.error，c2处理
+    /// 发送：charge.error，c1、c2都会处理
     /// </summary>
     class Program
     {
@@ -19,7 +20,7 @@ namespace RabbitMQDemo.Routing
             {
                 Console.WriteLine("消费者1");
                 Customer customer = new Customer("localhost");
-                customer.Receive_Routing("hello", (message) =>
+                customer.Receive_Topics("hello", (message) =>
                 {
                     Stopwatch watch = new Stopwatch();
                     watch.Start();
@@ -31,13 +32,13 @@ namespace RabbitMQDemo.Routing
 
                     watch.Stop();
                     Console.WriteLine(string.Format("线程1，操作耗时：{0}秒", watch.Elapsed.Seconds));
-                },"info");
+                }, "charge.*");
             });
             Task.Run(() =>
             {
                 Console.WriteLine("消费者2");
                 Customer customer = new Customer("localhost");
-                customer.Receive_Routing("hello", (message) =>
+                customer.Receive_Topics("hello", (message) =>
                 {
                     Stopwatch watch = new Stopwatch();
                     watch.Start();
@@ -49,7 +50,7 @@ namespace RabbitMQDemo.Routing
 
                     watch.Stop();
                     Console.WriteLine(string.Format("线程2，操作耗时：{0}秒", watch.Elapsed.Seconds));
-                },"error");
+                }, "*.error");
             });
 
             //生产者发送消息
@@ -60,7 +61,7 @@ namespace RabbitMQDemo.Routing
                     break;
 
                 Producer producer = new Producer("localhost");
-                producer.Send_Routing("hello", "hello", message);
+                producer.Send_Topics("hello", "hello", message);
             }
 
 

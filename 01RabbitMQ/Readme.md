@@ -6,6 +6,8 @@
 
 官方Demo：https://github.com/rabbitmq/rabbitmq-tutorials
 
+开发工具：https://www.rabbitmq.com/devtools.html
+
 
 
 # 简介

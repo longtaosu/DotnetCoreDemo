@@ -99,6 +99,7 @@ namespace RabbitMQDemo.Common
                 }
             }
         }
+
         public void Send_Routing(string queue, string routingKey, string message, string exchange = "", bool durable = false, bool exclusive = false, bool autoDelete = false)
         {
             using (var connection = factory.CreateConnection())
@@ -122,6 +123,30 @@ namespace RabbitMQDemo.Common
                     /*消息持久化*/
                     channel.BasicPublish(exchange: "direct_logs",
                                          routingKey: severity,
+                                         basicProperties: properties,
+                                         body: messageSend);
+                }
+            }
+        }
+
+        public void Send_Topics(string queue, string routingKey, string message, string exchange = "", bool durable = false, bool exclusive = false, bool autoDelete = false)
+        {
+            using (var connection = factory.CreateConnection())
+            {
+                using (var channel = connection.CreateModel())
+                {
+                    channel.ExchangeDeclare(exchange: "topic_logs",
+                                            type: "topic");
+                    string[] msg = message.Split(' ');
+                    routingKey = msg.Length > 0 ? msg[0] : "anonymous.info";
+
+                    //将消息转换为bytes数组，发送消息
+                    var messageSend = Encoding.UTF8.GetBytes(message);
+                    var properties = channel.CreateBasicProperties();
+                    properties.Persistent = true;
+                    /*消息持久化*/
+                    channel.BasicPublish(exchange: "topic_logs",
+                                         routingKey: routingKey,
                                          basicProperties: properties,
                                          body: messageSend);
                 }
