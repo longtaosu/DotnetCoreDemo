@@ -53,5 +53,5 @@ RabbitMQ是一个消息队列，可以接收并传递消息。
 - Publish/Subscribe
 - Routing
 - Topics
-- RPC
+- RPC（尚未完成）
 
