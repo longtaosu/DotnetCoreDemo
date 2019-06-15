@@ -1,0 +1,9 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\bin\Debug\netstandard2.0\EasyNetQDemo.Common.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\bin\Debug\netstandard2.0\EasyNetQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\obj\Debug\netstandard2.0\EasyNetQDemo.Common.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\obj\Debug\netstandard2.0\EasyNetQDemo.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\obj\Debug\netstandard2.0\EasyNetQDemo.Common.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\obj\Debug\netstandard2.0\EasyNetQDemo.Common.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\bin\Debug\netstandard2.0\EasyNetQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\obj\Debug\netstandard2.0\EasyNetQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.Common\obj\Debug\netstandard2.0\EasyNetQDemo.Common.pdb

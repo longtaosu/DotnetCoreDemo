@@ -1,0 +1,8 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\bin\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\bin\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\bin\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\bin\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\obj\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\obj\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\obj\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\EasyNetQDemo.Subscribe\obj\Debug\netcoreapp2.2\EasyNetQDemo.Subscribe.AssemblyInfo.cs

@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Shared Code", "1.Shared Code", "{32D6678C-BABD-4B0A-817C-8727799A1298}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Quick Start", "2.Quick Start", "{20493DE1-F0AF-4AC1-B2A0-DA318AD7311D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQDemo.Common", "1.ShareCode\EasyNetQDemo.Common.csproj", "{EBC79355-CDC1-4D93-A7CD-702F42AD931A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQDemo.QuickStart_Sender", "2.QuickStart\EasyNetQDemo.QuickStart_Sender\EasyNetQDemo.QuickStart_Sender.csproj", "{7D61AD7A-3004-417A-B851-9B1ED45F6ECE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQDemo.QuickStart_Subscriber", "2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\EasyNetQDemo.QuickStart_Subscriber.csproj", "{0B53BACA-899E-4774-9881-9FFD844DC4E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Publish and Subscribe", "3.Publish and Subscribe", "{8EF3816E-48DD-47C9-98F4-BE09C52DCF8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1.Simple Publish and Subscribe", "3.1.Simple Publish and Subscribe", "{C54CAC75-BB41-4427-A7B1-256B780262E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2.Publisher Confirmation", "3.2.Publisher Confirmation", "{01EE4A40-AF52-4AB6-9AF8-1A961A691660}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.3.Polymorphic Publish and Subscribe", "3.3.Polymorphic Publish and Subscribe", "{212B6F4B-3BAA-44E4-958E-E78E95D8608C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.4.Controlling Queue and Exchange Names", "3.4.Controlling Queue and Exchange Names", "{32201E81-DF44-42CE-BBB6-290BD2681C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQDemo.Publish", "3.PublishAndSubscribe\EasyNetQDemo.Publish\EasyNetQDemo.Publish.csproj", "{B6F8C323-6AB8-4FFA-8EF3-3F888A054EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQDemo.Subscribe", "3.PublishAndSubscribe\EasyNetQDemo.Subscribe\EasyNetQDemo.Subscribe.csproj", "{8C226697-B006-41D7-8562-CA095124AC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC79355-CDC1-4D93-A7CD-702F42AD931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC79355-CDC1-4D93-A7CD-702F42AD931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC79355-CDC1-4D93-A7CD-702F42AD931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC79355-CDC1-4D93-A7CD-702F42AD931A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D61AD7A-3004-417A-B851-9B1ED45F6ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D61AD7A-3004-417A-B851-9B1ED45F6ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D61AD7A-3004-417A-B851-9B1ED45F6ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D61AD7A-3004-417A-B851-9B1ED45F6ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B53BACA-899E-4774-9881-9FFD844DC4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B53BACA-899E-4774-9881-9FFD844DC4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B53BACA-899E-4774-9881-9FFD844DC4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B53BACA-899E-4774-9881-9FFD844DC4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F8C323-6AB8-4FFA-8EF3-3F888A054EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F8C323-6AB8-4FFA-8EF3-3F888A054EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F8C323-6AB8-4FFA-8EF3-3F888A054EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F8C323-6AB8-4FFA-8EF3-3F888A054EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C226697-B006-41D7-8562-CA095124AC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C226697-B006-41D7-8562-CA095124AC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C226697-B006-41D7-8562-CA095124AC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C226697-B006-41D7-8562-CA095124AC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBC79355-CDC1-4D93-A7CD-702F42AD931A} = {32D6678C-BABD-4B0A-817C-8727799A1298}
+		{7D61AD7A-3004-417A-B851-9B1ED45F6ECE} = {20493DE1-F0AF-4AC1-B2A0-DA318AD7311D}
+		{0B53BACA-899E-4774-9881-9FFD844DC4E4} = {20493DE1-F0AF-4AC1-B2A0-DA318AD7311D}
+		{C54CAC75-BB41-4427-A7B1-256B780262E6} = {8EF3816E-48DD-47C9-98F4-BE09C52DCF8D}
+		{01EE4A40-AF52-4AB6-9AF8-1A961A691660} = {8EF3816E-48DD-47C9-98F4-BE09C52DCF8D}
+		{212B6F4B-3BAA-44E4-958E-E78E95D8608C} = {8EF3816E-48DD-47C9-98F4-BE09C52DCF8D}
+		{32201E81-DF44-42CE-BBB6-290BD2681C63} = {8EF3816E-48DD-47C9-98F4-BE09C52DCF8D}
+		{B6F8C323-6AB8-4FFA-8EF3-3F888A054EC7} = {C54CAC75-BB41-4427-A7B1-256B780262E6}
+		{8C226697-B006-41D7-8562-CA095124AC9C} = {C54CAC75-BB41-4427-A7B1-256B780262E6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49DC113F-FD5A-46F8-92F4-3B46D6DACA38}
+	EndGlobalSection
+EndGlobal
