@@ -1,0 +1,10 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\bin\Debug\netcoreapp2.2\RabbitMQDemo.RPC.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\bin\Debug\netcoreapp2.2\RabbitMQDemo.RPC.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\bin\Debug\netcoreapp2.2\RabbitMQDemo.RPC.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\bin\Debug\netcoreapp2.2\RabbitMQDemo.RPC.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\bin\Debug\netcoreapp2.2\RabbitMQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\obj\Debug\netcoreapp2.2\RabbitMQDemo.RPC.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\obj\Debug\netcoreapp2.2\RabbitMQDemo.RPC.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\obj\Debug\netcoreapp2.2\RabbitMQDemo.RPC.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\RabbitMQDemo.RPC\obj\Debug\netcoreapp2.2\RabbitMQDemo.RPC.csproj.CopyComplete

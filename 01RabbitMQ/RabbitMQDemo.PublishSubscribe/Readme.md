@@ -26,8 +26,8 @@ RabbitMQ消息模型的核心思想是生产者永远不要直接把消息发送
 
 Echange的类型有以下几种：direct、topic、headers和fanout。
 
-- direct：
-- topic：
+- direct：根据routing key绑定队列
+- topic：routing key满足多规则模糊匹配
 - header：
 - fanout：Exchange将接收到的消息转发到所有队列
 
