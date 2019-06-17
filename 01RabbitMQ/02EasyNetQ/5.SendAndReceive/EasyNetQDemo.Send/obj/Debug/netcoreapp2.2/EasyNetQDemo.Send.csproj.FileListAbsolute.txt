@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Send.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Send.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Send.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Send.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\bin\Debug\netcoreapp2.2\EasyNetQDemo.Send.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.Send\obj\Debug\netcoreapp2.2\EasyNetQDemo.Send.pdb

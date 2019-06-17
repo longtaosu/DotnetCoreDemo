@@ -40,7 +40,7 @@ namespace EasyNetQDemo.Publish
                 Amount = 34.87m
             };
 
-            var bus = RabbitHutch.CreateBus("host=localhost");
+            var bus = RabbitHutch.CreateBus("host=localhost;publisherConfirms=true");
             bus.Publish(payment1);
             bus.Publish(payment2);
             bus.Publish(payment3);

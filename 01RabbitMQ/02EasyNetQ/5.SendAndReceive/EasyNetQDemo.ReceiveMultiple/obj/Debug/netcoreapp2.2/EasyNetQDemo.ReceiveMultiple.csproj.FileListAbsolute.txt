@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\bin\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\5.SendAndReceive\EasyNetQDemo.ReceiveMultiple\obj\Debug\netcoreapp2.2\EasyNetQDemo.ReceiveMultiple.pdb

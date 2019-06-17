@@ -15,3 +15,4 @@ C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\1.ShareCode\obj\Debug
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\1.ShareCode\obj\Debug\netstandard2.0\EasyNetQDemo.Common.AssemblyInfo.cs
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\1.ShareCode\obj\Debug\netstandard2.0\EasyNetQDemo.Common.dll
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\1.ShareCode\obj\Debug\netstandard2.0\EasyNetQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\1.ShareCode\obj\Debug\netstandard2.0\EasyNetQDemo.Common.csprojAssemblyReference.cache

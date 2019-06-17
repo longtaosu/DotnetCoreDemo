@@ -14,13 +14,11 @@ namespace EasyNetQDemo.Subscribe
 
             Console.ReadLine();
         }
-        static int count = 0;
+
         static void HandleCardPaymentMessage(CardPaymentRequestMessage paymentMessage)
         {
             Thread.Sleep(3000);
-            count++;
-            if (count > 5)
-                throw new Exception("hahah");
+
                 //Thread.Sleep(new TimeSpan(1, 0, 0));
             Console.WriteLine("Payment = <" +
                               paymentMessage.CardNumber + ", " +

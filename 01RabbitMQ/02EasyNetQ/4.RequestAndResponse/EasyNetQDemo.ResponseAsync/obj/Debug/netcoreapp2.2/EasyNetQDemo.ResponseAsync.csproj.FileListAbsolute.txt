@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\bin\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\4.RequestAndResponse\EasyNetQDemo.ResponseAsync\obj\Debug\netcoreapp2.2\EasyNetQDemo.ResponseAsync.pdb
