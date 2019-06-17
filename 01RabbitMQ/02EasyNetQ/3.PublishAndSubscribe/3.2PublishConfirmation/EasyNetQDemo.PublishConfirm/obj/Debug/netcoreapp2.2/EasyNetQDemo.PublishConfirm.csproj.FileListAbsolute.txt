@@ -1,0 +1,14 @@
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.deps.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.runtimeconfig.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.runtimeconfig.dev.json
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\bin\Debug\netcoreapp2.2\EasyNetQDemo.Common.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\3.PublishAndSubscribe\3.2PublishConfirmation\EasyNetQDemo.PublishConfirm\obj\Debug\netcoreapp2.2\EasyNetQDemo.PublishConfirm.pdb

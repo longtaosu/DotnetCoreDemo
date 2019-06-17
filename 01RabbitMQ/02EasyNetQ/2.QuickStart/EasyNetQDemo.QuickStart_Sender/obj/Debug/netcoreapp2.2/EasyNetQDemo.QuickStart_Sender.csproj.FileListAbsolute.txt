@@ -12,8 +12,6 @@ C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickSta
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.csproj.CopyComplete
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.dll
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.pdb
-C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.dll
-C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.pdb
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\bin\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.deps.json
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\bin\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.runtimeconfig.json
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\bin\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.runtimeconfig.dev.json
@@ -26,3 +24,5 @@ C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQ
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.AssemblyInfoInputs.cache
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.AssemblyInfo.cs
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Sender\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Sender.pdb

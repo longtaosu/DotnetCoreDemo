@@ -11,7 +11,7 @@ namespace EasyNetQDemo.QuickStart_Subscriber
             Thread.Sleep(2000);
             var bus = RabbitHutch.CreateBus("host=localhost");
             bus.Subscribe<TextMessage>("test", HandleTextMessage);
-
+            
             Console.ReadLine();
         }
 

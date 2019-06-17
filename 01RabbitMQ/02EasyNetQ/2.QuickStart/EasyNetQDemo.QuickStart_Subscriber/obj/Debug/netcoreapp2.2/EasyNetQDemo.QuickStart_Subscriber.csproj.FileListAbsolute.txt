@@ -12,8 +12,6 @@ C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickSta
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.csproj.CopyComplete
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.dll
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.pdb
-C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.dll
-C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.pdb
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\bin\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.deps.json
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\bin\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.runtimeconfig.json
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\bin\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.runtimeconfig.dev.json
@@ -26,3 +24,5 @@ C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQ
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.AssemblyInfoInputs.cache
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.AssemblyInfo.cs
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.dll
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\2.QuickStart\EasyNetQDemo.QuickStart_Subscriber\obj\Debug\netcoreapp2.2\EasyNetQDemo.QuickStart_Subscriber.pdb
