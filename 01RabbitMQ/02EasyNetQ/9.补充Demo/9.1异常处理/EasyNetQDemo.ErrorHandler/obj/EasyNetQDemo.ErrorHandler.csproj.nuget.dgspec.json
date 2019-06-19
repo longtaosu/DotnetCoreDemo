@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gdky\\Desktop\\DotnetCoreDemo\\01RabbitMQ\\02EasyNetQ\\9.补充Demo\\9.1异常处理\\EasyNetQDemo.ErrorHandler\\EasyNetQDemo.ErrorHandler.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gdky\\Desktop\\DotnetCoreDemo\\01RabbitMQ\\02EasyNetQ\\9.补充Demo\\9.1异常处理\\EasyNetQDemo.ErrorHandler\\EasyNetQDemo.ErrorHandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\DotnetCoreDemo\\01RabbitMQ\\02EasyNetQ\\9.补充Demo\\9.1异常处理\\EasyNetQDemo.ErrorHandler\\EasyNetQDemo.ErrorHandler.csproj",
+        "projectName": "EasyNetQDemo.ErrorHandler",
+        "projectPath": "C:\\Users\\Gdky\\Desktop\\DotnetCoreDemo\\01RabbitMQ\\02EasyNetQ\\9.补充Demo\\9.1异常处理\\EasyNetQDemo.ErrorHandler\\EasyNetQDemo.ErrorHandler.csproj",
+        "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gdky\\Desktop\\DotnetCoreDemo\\01RabbitMQ\\02EasyNetQ\\9.补充Demo\\9.1异常处理\\EasyNetQDemo.ErrorHandler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gdky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
