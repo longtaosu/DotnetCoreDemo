@@ -1,4 +1,5 @@
 ﻿using EasyNetQ;
+using EasyNetQ.Consumer;
 using EasyNetQ.SystemMessages;
 using EasyNetQ.Topology;
 using System;
@@ -22,11 +23,11 @@ namespace EasyNetQDemo.ErrorHandler
 
         static void Main(string[] args)
         {
-            Bus = RabbitHutch.CreateBus("host=localhost");
+            Bus = RabbitHutch.CreateBus("host=localhost",x=>x.Register<IConsumerErrorStrategy>(_ => new AlwaysRequeueErrorStrategy()));
 
             RpcCall(sleepToLong: false);
 
-            SubscribeAsync(randomSleep: false, randomThrow: false, showEnd: false);
+            SubscribeAsync(randomSleep: true, randomThrow: true, showEnd: true);
 
             HandleErrors();
 
@@ -93,8 +94,8 @@ namespace EasyNetQDemo.ErrorHandler
         }
         private static void RandomThrow(int id, Question q, bool randomThrow)
         {
-            //if (randomThrow && new Random().Next(0, 1) == 0)
-            if (new Random().Next(0, 2) == 0)
+            if (randomThrow && new Random().Next(0, 3) == 0)
+            //if (new Random().Next(0, 2) == 0)
             {
                 var ex = $"throw: Worker {id} - {q.Text}";
                 Console.WriteLine(ex);

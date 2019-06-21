@@ -8,3 +8,4 @@ C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\9.补充Demo\9.1异�
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\9.补充Demo\9.1异常处理\EasyNetQDemo.ErrorHandler\bin\Debug\netcoreapp2.2\EasyNetQDemo.ErrorHandler.pdb
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\9.补充Demo\9.1异常处理\EasyNetQDemo.ErrorHandler\obj\Debug\netcoreapp2.2\EasyNetQDemo.ErrorHandler.dll
 C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\9.补充Demo\9.1异常处理\EasyNetQDemo.ErrorHandler\obj\Debug\netcoreapp2.2\EasyNetQDemo.ErrorHandler.pdb
+C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\9.补充Demo\9.1异常处理\EasyNetQDemo.ErrorHandler\obj\Debug\netcoreapp2.2\EasyNetQDemo.ErrorHandler.csprojAssemblyReference.cache
