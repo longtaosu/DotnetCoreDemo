@@ -268,7 +268,7 @@
 
 打开浏览器，输入地址：<https://localhost:44330/TestMQ/PublishMessage>
 
-![微信截图_20190624160307](C:\Users\Gdky\Desktop\DotnetCoreDemo\01RabbitMQ\02EasyNetQ\9.补充Demo\9.2MVC实例（含DI、NLog、EasyNetQ）\Images\微信截图_20190624160307.png)
+![微信截图_20190624160307](/Images/微信截图_20190624160307.png)
 
 页面返回了操作时间，消息进行了两次重试并在第三次成功，成功的这一次执行了耗时10s的操作。
 
