@@ -14,9 +14,10 @@ namespace RabbitmqMVCDemo.Services
     {
         #region 构造函数
         IBus bus;
-        public MQService()
+        ITest _test;
+        public MQService(ITest test)
         {
-
+            _test = test;
         }
         #endregion
 
@@ -24,7 +25,7 @@ namespace RabbitmqMVCDemo.Services
         public void InitMQ()
         {
             //声明队列并指定异常处理程序
-            bus = RabbitHutch.CreateBus("host=localhost", x => x.Register<IConsumerErrorStrategy>(_ => new AlwaysRequeueErrorStrategy()));
+            bus = RabbitHutch.CreateBus("host=192.144.189.146", x => x.Register<IConsumerErrorStrategy>(_ => new AlwaysRequeueErrorStrategy()));
 
             //订阅消息
             SubscribeMessage();
@@ -52,6 +53,7 @@ namespace RabbitmqMVCDemo.Services
         #region 业务程序
         private Func<int, Task> HandleMessageAsync(Question question)
         {
+            _test.TestLog();
             return async (id) =>
             {
                 if (new Random().Next(0, 2) == 0)

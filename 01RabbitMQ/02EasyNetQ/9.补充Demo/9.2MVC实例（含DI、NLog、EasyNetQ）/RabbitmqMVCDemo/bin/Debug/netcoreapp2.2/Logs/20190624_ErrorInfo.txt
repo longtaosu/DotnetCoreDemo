@@ -190,3 +190,21 @@
 信息： Exception thrown by subscription callback, receivedInfo=[ConsumerTag=fb8ae4d5-b987-461c-b433-9564d016cd44, DeliverTag=3, Redelivered=True, Exchange=RabbitmqMVCDemo.Models.Question, RabbitmqMVCDemo, RoutingKey=, Queue=RabbitmqMVCDemo.Models.Question, RabbitmqMVCDemo_subscribe_question], properties=ContentType=NULL, ContentEncoding=NULL, Headers=[], DeliveryMode=2, Priority=0, CorrelationId=43170e1f-e289-4f87-9af1-541699ffd9de, ReplyTo=NULL, Expiration=NULL, MessageId=NULL, Timestamp=0, Type=RabbitmqMVCDemo.Models.Question, RabbitmqMVCDemo, UserId=NULL, AppId=NULL, ClusterId=NULL, message="eyJUZXh0IjoiMjAxOS82LzI0IDE2OjAxOjU3In0="               
                
 -----------------------------------------------------------
+               
+时间： 2019-06-24 22:05:52.2169               
+来源： RabbitmqMVCDemo.Common.NLogHelper.Error               
+等级： Error               
+堆栈：  MQService.HandleMessageAsync => Test.TestLog => NLogHelper.Error               
+错误：                
+信息： dddd               
+               
+-----------------------------------------------------------
+               
+时间： 2019-06-24 22:07:15.7122               
+来源： RabbitmqMVCDemo.Common.NLogHelper.Error               
+等级： Error               
+堆栈：  MQService.HandleMessageAsync => Test.TestLog => NLogHelper.Error               
+错误：                
+信息： dddd               
+               
+-----------------------------------------------------------

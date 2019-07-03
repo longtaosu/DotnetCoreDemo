@@ -39,6 +39,7 @@ namespace RabbitmqMVCDemo
             //注册消息队列的服务
             var builder = new ContainerBuilder();
             builder.RegisterType<MQService>().As<IMQService>().SingleInstance();
+            builder.RegisterType<Test>().As<ITest>();
             builder.Populate(services);
 
             this.ApplicationContainer = builder.Build();

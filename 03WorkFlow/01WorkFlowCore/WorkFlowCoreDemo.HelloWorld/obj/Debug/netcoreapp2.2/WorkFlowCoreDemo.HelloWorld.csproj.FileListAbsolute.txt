@@ -1,0 +1,11 @@
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\bin\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.deps.json
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\bin\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.runtimeconfig.json
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\bin\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.runtimeconfig.dev.json
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\bin\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.dll
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\obj\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.csprojAssemblyReference.cache
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\obj\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\obj\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\obj\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.AssemblyInfo.cs
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\bin\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.pdb
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\obj\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.dll
+C:\Users\Long\source\repos\WorkFlowCoreDemo\WorkFlowCoreDemo.HelloWorld\obj\Debug\netcoreapp2.2\WorkFlowCoreDemo.HelloWorld.pdb
