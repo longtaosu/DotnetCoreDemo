@@ -1,0 +1,153 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "2ba657185faebfea59a21d0b227b5cc338f54d77"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AutofacDemo.AttributeMetadataDemo/1.0.0": {
+        "dependencies": {
+          "Autofac": "4.9.2",
+          "Autofac.Extras.AttributeMetadata": "4.0.1",
+          "System.ComponentModel.Composition": "4.5.0"
+        },
+        "runtime": {
+          "AutofacDemo.AttributeMetadataDemo.dll": {}
+        }
+      },
+      "Autofac/4.9.2": {
+        "runtime": {
+          "lib/netstandard2.0/Autofac.dll": {
+            "assemblyVersion": "4.9.2.0",
+            "fileVersion": "4.9.2.0"
+          }
+        }
+      },
+      "Autofac.Extras.AttributeMetadata/4.0.1": {
+        "dependencies": {
+          "Autofac": "4.9.2",
+          "Autofac.Mef": "4.0.0"
+        },
+        "runtime": {
+          "lib/net45/Autofac.Extras.AttributeMetadata.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.1.226"
+          }
+        }
+      },
+      "Autofac.Mef/4.0.0": {
+        "dependencies": {
+          "Autofac": "4.9.2"
+        },
+        "runtime": {
+          "lib/net45/Autofac.Integration.Mef.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.222"
+          }
+        }
+      },
+      "System.ComponentModel.Composition/4.5.0": {
+        "dependencies": {
+          "System.Security.Permissions": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.ComponentModel.Composition.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.5.0": {
+        "dependencies": {
+          "System.Security.Principal.Windows": "4.5.0"
+        },
+        "runtimeTargets": {
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "System.Security.Permissions/4.5.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.5.0": {
+        "runtimeTargets": {
+          "runtime/unix/lib/_._": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtime/win/lib/_._": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutofacDemo.AttributeMetadataDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/4.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1MrHauRcpaPW3CpVYIhQey8o9vodRool0XfK7QcUu8v2SgQVYF/uzUILF/Lwgx8qvkY5DycyWEDj1WYNsDNcDA==",
+      "path": "autofac/4.9.2",
+      "hashPath": "autofac.4.9.2.nupkg.sha512"
+    },
+    "Autofac.Extras.AttributeMetadata/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PCyQvyAE6tiYv6UKUtiHrTojtx3EjaX+SL4chc+5LstZK1wDiQMAI2OrQPhlMcPDL5U99xGiljSvY6wR9iv8ew==",
+      "path": "autofac.extras.attributemetadata/4.0.1",
+      "hashPath": "autofac.extras.attributemetadata.4.0.1.nupkg.sha512"
+    },
+    "Autofac.Mef/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-be+uvDKhyWc1Uw667akp6PvxlMC/2G8fLqjWjXHAt85ueOnPTn9Qhou6P9Ry89eCanD46xvGXYh1DD+gkcmdmQ==",
+      "path": "autofac.mef/4.0.0",
+      "hashPath": "autofac.mef.4.0.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Composition/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+iB9FoZnfdqMEGq6np28X6YNSUrse16CakmIhV3h6PxEWt7jYxUN3Txs1D8MZhhf4QmyvK0F/EcIN0f4gGN0dA==",
+      "path": "system.componentmodel.composition/4.5.0",
+      "hashPath": "system.componentmodel.composition.4.5.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vW8Eoq0TMyz5vAG/6ce483x/CP83fgm4SJe5P8Tb1tZaobcvPrbMEL7rhH1DRdrYbbb6F0vq3OlzmK0Pkwks5A==",
+      "path": "system.security.accesscontrol/4.5.0",
+      "hashPath": "system.security.accesscontrol.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Permissions/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9gdyuARhUR7H+p5CjyUB/zPk7/Xut3wUSP8NJQB6iZr8L3XUXTMdoLeVAg9N4rqF8oIpE7MpdqHdDHQ7XgJe0g==",
+      "path": "system.security.permissions/4.5.0",
+      "hashPath": "system.security.permissions.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==",
+      "path": "system.security.principal.windows/4.5.0",
+      "hashPath": "system.security.principal.windows.4.5.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.deps.json
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.dll
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.pdb
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.dll
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.pdb
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.AssemblyInfoInputs.cache
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.AssemblyInfo.cs
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.dll
+C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationPlugin\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationPlugin.pdb
