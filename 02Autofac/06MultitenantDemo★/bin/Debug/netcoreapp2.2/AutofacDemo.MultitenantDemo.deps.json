@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "55d96a4de447ed984c2dd4de7cf4ad9df24f63aa"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AutofacDemo.MultitenantDemo/1.0.0": {
+        "dependencies": {
+          "Autofac": "4.9.2",
+          "Autofac.Multitenant": "4.2.0"
+        },
+        "runtime": {
+          "AutofacDemo.MultitenantDemo.dll": {}
+        }
+      },
+      "Autofac/4.9.2": {
+        "runtime": {
+          "lib/netstandard2.0/Autofac.dll": {
+            "assemblyVersion": "4.9.2.0",
+            "fileVersion": "4.9.2.0"
+          }
+        }
+      },
+      "Autofac.Multitenant/4.2.0": {
+        "dependencies": {
+          "Autofac": "4.9.2"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Autofac.Multitenant.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutofacDemo.MultitenantDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autofac/4.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1MrHauRcpaPW3CpVYIhQey8o9vodRool0XfK7QcUu8v2SgQVYF/uzUILF/Lwgx8qvkY5DycyWEDj1WYNsDNcDA==",
+      "path": "autofac/4.9.2",
+      "hashPath": "autofac.4.9.2.nupkg.sha512"
+    },
+    "Autofac.Multitenant/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qEeavS/SAqSf3k3o+mbotXDt180h/NGkUkBxzbme0xwZV7oWqi/DWsO4sBAuEdE+4hGS5pD7PP5XuseD+rFvRw==",
+      "path": "autofac.multitenant/4.2.0",
+      "hashPath": "autofac.multitenant.4.2.0.nupkg.sha512"
+    }
+  }
+}

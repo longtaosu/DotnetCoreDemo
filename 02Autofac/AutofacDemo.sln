@@ -23,6 +23,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutofacDemo.ConfigurationIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutofacDemo.ConfigurationPlugin", "04ConfigurationDemo\AutofacDemo.ConfigurationPlugin\AutofacDemo.ConfigurationPlugin.csproj", "{B48AF15C-7301-4106-B961-7542E1A64693}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05GenericHostBuilderDemo", "05GenericHostBuilderDemo", "{F45B801F-FB07-4B56-ABE2-1D6DF39F288C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutofacDemo.GenericHostBuilderDemo", "05GenericHostBuilderDemo\AutofacDemo.GenericHostBuilderDemo.csproj", "{CB195E09-7DCE-4034-81AB-04837F47CFD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06MultitenantDemo", "06MultitenantDemo", "{D39EEDB7-97CB-4C70-BCF1-DBDCB81AF4B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutofacDemo.MultitenantDemo", "06MultitenantDemo★\AutofacDemo.MultitenantDemo.csproj", "{7D57C617-6ABE-4035-8618-6FEF545ABBCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +61,14 @@ Global
 		{B48AF15C-7301-4106-B961-7542E1A64693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B48AF15C-7301-4106-B961-7542E1A64693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B48AF15C-7301-4106-B961-7542E1A64693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB195E09-7DCE-4034-81AB-04837F47CFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB195E09-7DCE-4034-81AB-04837F47CFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB195E09-7DCE-4034-81AB-04837F47CFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB195E09-7DCE-4034-81AB-04837F47CFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D57C617-6ABE-4035-8618-6FEF545ABBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D57C617-6ABE-4035-8618-6FEF545ABBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D57C617-6ABE-4035-8618-6FEF545ABBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D57C617-6ABE-4035-8618-6FEF545ABBCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +80,8 @@ Global
 		{A077BF6A-CA6B-4BE4-A16E-126AB33DE5A0} = {570F4E9B-9F4E-41E5-9649-A08B4337A7BC}
 		{1C90EAAB-6E7C-4F68-9BCD-7EFF018991A5} = {570F4E9B-9F4E-41E5-9649-A08B4337A7BC}
 		{B48AF15C-7301-4106-B961-7542E1A64693} = {570F4E9B-9F4E-41E5-9649-A08B4337A7BC}
+		{CB195E09-7DCE-4034-81AB-04837F47CFD0} = {F45B801F-FB07-4B56-ABE2-1D6DF39F288C}
+		{7D57C617-6ABE-4035-8618-6FEF545ABBCA} = {D39EEDB7-97CB-4C70-BCF1-DBDCB81AF4B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA3C1650-5E8A-4688-A1FE-20F3A60ECB39}
