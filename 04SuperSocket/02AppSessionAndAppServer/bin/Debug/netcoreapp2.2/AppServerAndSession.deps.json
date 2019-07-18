@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "dec6dbb4b6c3a2365674f822d7499ab8c020f4bf"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AppServerAndSession/1.0.0": {
+        "dependencies": {
+          "SuperSocket": "1.6.6.1"
+        },
+        "runtime": {
+          "AppServerAndSession.dll": {}
+        }
+      },
+      "log4net/2.0.3": {
+        "runtime": {
+          "lib/net40-full/log4net.dll": {
+            "assemblyVersion": "1.2.13.0",
+            "fileVersion": "1.2.13.0"
+          }
+        }
+      },
+      "SuperSocket/1.6.6.1": {
+        "dependencies": {
+          "log4net": "2.0.3"
+        },
+        "runtime": {
+          "lib/net45/SuperSocket.Common.dll": {
+            "assemblyVersion": "1.6.6.1",
+            "fileVersion": "1.6.6.1"
+          },
+          "lib/net45/SuperSocket.Facility.dll": {
+            "assemblyVersion": "1.6.6.1",
+            "fileVersion": "1.6.6.1"
+          },
+          "lib/net45/SuperSocket.SocketBase.dll": {
+            "assemblyVersion": "1.6.6.1",
+            "fileVersion": "1.6.6.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppServerAndSession/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rxMHzK5efGPo5XtRnuUGO4tfW5l74Aji6kVmtMAt2SgcB5PHBNtNY7yj2LCI2VtKrLPO7kCKR6kH6lIZggq3Gg==",
+      "path": "log4net/2.0.3",
+      "hashPath": "log4net.2.0.3.nupkg.sha512"
+    },
+    "SuperSocket/1.6.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mowf1siOQwqxQH+FE+UO9b29GjHEtT/p5rxTHvcgfaIdwcRqMUAzEJELBA/M8wDn/BIE/XMojeyNaoqfGECX8A==",
+      "path": "supersocket/1.6.6.1",
+      "hashPath": "supersocket.1.6.6.1.nupkg.sha512"
+    }
+  }
+}

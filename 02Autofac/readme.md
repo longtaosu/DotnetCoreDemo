@@ -2,6 +2,10 @@
 
 https://github.com/autofac/Examples
 
+英文文档：https://autofac.readthedocs.io/en/latest/
+
+中文文档：https://autofaccn.readthedocs.io/zh/latest/
+
 # 注意
 
 1. 可以直接从 Container 解析组件，但是这种方法并不推荐
@@ -23,3 +27,13 @@ https://github.com/autofac/Examples
    }
    ```
 
+
+
+10.缺失项目：
+
+- MultitenantExample.MvcApplication
+- MultitenantExample.WcfApplication
+- MvcExample
+- MvcExample
+- WebApiExample.OwinSelfHost
+- WebFormsExample

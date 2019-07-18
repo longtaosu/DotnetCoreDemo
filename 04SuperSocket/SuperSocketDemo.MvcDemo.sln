@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01Telnet", "01Telnet", "{ECFA499F-4C5B-46E4-8D4E-DB2738195B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSocketDemo.TelnetDemo", "01TelnetDemo\SuperSocketDemo.TelnetDemo.csproj", "{E43808A3-769F-48CE-AA53-37E3C3095FE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00MvcDemo", "00MvcDemo", "{40B9D80B-6AFB-4459-8712-E0813F08DE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSocketDemo.MvcDemo", "00MvcDemo\SuperSocketDemo.MvcDemo.csproj", "{4992FD81-F8B4-4777-86B3-B2355BCA3C72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02AppServerSession", "02AppServerSession", "{D5ADE12A-12BF-4A40-A0CB-4764D9038932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServerSession", "02AppSessionAndAppServer\AppServerSession.csproj", "{A5A1BD51-2F90-4945-A291-B44F10DF89E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43808A3-769F-48CE-AA53-37E3C3095FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43808A3-769F-48CE-AA53-37E3C3095FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43808A3-769F-48CE-AA53-37E3C3095FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43808A3-769F-48CE-AA53-37E3C3095FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4992FD81-F8B4-4777-86B3-B2355BCA3C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4992FD81-F8B4-4777-86B3-B2355BCA3C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4992FD81-F8B4-4777-86B3-B2355BCA3C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4992FD81-F8B4-4777-86B3-B2355BCA3C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E43808A3-769F-48CE-AA53-37E3C3095FE9} = {ECFA499F-4C5B-46E4-8D4E-DB2738195B90}
+		{4992FD81-F8B4-4777-86B3-B2355BCA3C72} = {40B9D80B-6AFB-4459-8712-E0813F08DE1D}
+		{A5A1BD51-2F90-4945-A291-B44F10DF89E4} = {D5ADE12A-12BF-4A40-A0CB-4764D9038932}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3350D614-19A7-480B-8DF8-69E0E3C25753}
+	EndGlobalSection
+EndGlobal
