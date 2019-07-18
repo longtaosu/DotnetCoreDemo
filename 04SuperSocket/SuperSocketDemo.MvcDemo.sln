@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02AppServerSession", "02App
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServerSession", "02AppSessionAndAppServer\AppServerSession.csproj", "{A5A1BD51-2F90-4945-A291-B44F10DF89E4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03StartupByConfig", "03StartupByConfig", "{142E1B63-ABCF-4E79-AC55-86BA86715CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineProtocal", "CommandLineProtocal\CommandLineProtocal.csproj", "{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5A1BD51-2F90-4945-A291-B44F10DF89E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
