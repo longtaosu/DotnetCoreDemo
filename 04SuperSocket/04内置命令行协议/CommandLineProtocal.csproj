@@ -64,7 +64,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SocketExt\MyReceiveFilter.cs" />
     <Compile Include="SocketExt\MyServer.cs" />
   </ItemGroup>
   <ItemGroup>
