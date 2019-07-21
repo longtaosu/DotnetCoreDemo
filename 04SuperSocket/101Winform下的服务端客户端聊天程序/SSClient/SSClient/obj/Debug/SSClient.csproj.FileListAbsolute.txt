@@ -1,0 +1,12 @@
+D:\SVN23\SSClient\SSClient\bin\Debug\SSClient.exe.config
+D:\SVN23\SSClient\SSClient\bin\Debug\SSClient.exe
+D:\SVN23\SSClient\SSClient\bin\Debug\SSClient.pdb
+D:\SVN23\SSClient\SSClient\bin\Debug\SuperSocket.ClientEngine.dll
+D:\SVN23\SSClient\SSClient\bin\Debug\SuperSocket.ProtoBase.dll
+D:\SVN23\SSClient\SSClient\bin\Debug\SuperSocket.ProtoBase.xml
+D:\SVN23\SSClient\SSClient\obj\Debug\SSClient.Form1.resources
+D:\SVN23\SSClient\SSClient\obj\Debug\SSClient.Properties.Resources.resources
+D:\SVN23\SSClient\SSClient\obj\Debug\SSClient.csproj.GenerateResource.Cache
+D:\SVN23\SSClient\SSClient\obj\Debug\SSClient.exe
+D:\SVN23\SSClient\SSClient\obj\Debug\SSClient.pdb
+D:\SVN23\SSClient\SSClient\obj\Debug\SSClient.csprojResolveAssemblyReference.cache

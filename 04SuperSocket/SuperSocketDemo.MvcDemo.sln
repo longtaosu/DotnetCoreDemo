@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04CommandLineProtocal", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineProtocal", "04内置命令行协议\CommandLineProtocal.csproj", "{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "21ClientEngine", "21ClientEngine", "{1818FA05-78AD-4181-951F-A82ED4758216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientEngineDemo", "ClientEngineDemo\ClientEngineDemo.csproj", "{FAE4E381-2844-4D60-B13F-4C5F2D496995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF04AF50-25C8-4466-9855-0C76BFF1CC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE4E381-2844-4D60-B13F-4C5F2D496995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE4E381-2844-4D60-B13F-4C5F2D496995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE4E381-2844-4D60-B13F-4C5F2D496995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE4E381-2844-4D60-B13F-4C5F2D496995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

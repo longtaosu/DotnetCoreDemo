@@ -1,0 +1,11 @@
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\bin\Debug\ClientEngineDemo.exe.config
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\bin\Debug\ClientEngineDemo.exe
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\bin\Debug\ClientEngineDemo.pdb
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\bin\Debug\SuperSocket.ProtoBase.dll
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\bin\Debug\SuperSocket.ProtoBase.xml
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\obj\Debug\ClientEngineDemo.csprojAssemblyReference.cache
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\obj\Debug\ClientEngineDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\obj\Debug\ClientEngineDemo.csproj.CopyComplete
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\obj\Debug\ClientEngineDemo.exe
+C:\Users\Gdky\Desktop\DotnetCore\04SuperSocket\ClientEngineDemo\obj\Debug\ClientEngineDemo.pdb
