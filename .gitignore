@@ -5,3 +5,8 @@
 /01RabbitMQ/02EasyNetQ/9.补充Demo/9.1异常处理/EasyNetQDemo.ErrorHandler/obj/Debug/netcoreapp2.2
 /01RabbitMQ/02EasyNetQ/9.补充Demo/9.1异常处理/EasyNetQDemo.ErrorHandler/BaseMessage.cs
 /02Autofac/packages
+/04SuperSocket/05启用SSL传输层加密/SslSocketDemo/Certificates
+/04SuperSocket/05启用SSL传输层加密/SslSocketDemo/bin/Debug
+/04SuperSocket/101Winform下的服务端客户端聊天程序/SSClient
+/04SuperSocket/101Winform下的服务端客户端聊天程序/SSServer/.vs/SSServer/v15
+/04SuperSocket/101Winform下的服务端客户端聊天程序/SSServer/.vs/SSServer/v16/Server/sqlite3/db.lock

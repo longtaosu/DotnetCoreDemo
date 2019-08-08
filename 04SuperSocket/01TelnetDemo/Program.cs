@@ -18,7 +18,7 @@ namespace SuperSocketDemo.TelnetDemo
 
             var appServer = new AppServer();
             appServer.NewSessionConnected += AppServer_NewSessionConnected;
-            //appServer.NewRequestReceived += AppServer_NewRequestReceived;
+            appServer.NewRequestReceived += AppServer_NewRequestReceived;
             appServer.SessionClosed += AppServer_SessionClosed;
 
             //Setup the appServer
