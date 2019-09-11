@@ -31,27 +31,52 @@ namespace JwtDemo
         {
             services.AddMvc();//.SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
+            services.AddAuthentication(options => 
+            {
+                options.DefaultScheme = "bearer";
+            }).AddJwtBearer("bearer", options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateAudience = false,
+                    //ValidAudience = Configuration["Jwt:Audience"],
+                    ValidateIssuer = false,
+                    //ValidIssuer = Configuration["Jwt:Issuer"],
+
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(Configuration["Jwt:Key"])),
+                    ValidateLifetime = true,
+                    ClockSkew = TimeSpan.FromMinutes(5)
+                };
+                options.Events = new JwtBearerEvents
+                {
+                    OnAuthenticationFailed = context =>
+                    {
+                        if (context.Exception.GetType() == typeof(SecurityTokenExpiredException))
+                        {
+                            context.Response.Headers.Add("Token-Expired", "true");
+                        }
+                        return Task.CompletedTask;
+                    }
+                };
+            });
+
             services.AddSwaggerGen(swagger =>
             {
                 swagger.SwaggerDoc("v1", new Info { Title = "Swagger Demo" });
-                //swagger.ResolveConflictingActions(apiDescriptions => apiDescriptions.First());
-            });
 
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(options =>
+                var IssuerName = Configuration["Jwt:Issuer"];//(Configuration.GetSection("Jwt"))["Issuer"];
+                var security = new Dictionary<string, IEnumerable<string>> { { IssuerName, new string[] { } }, };
+                swagger.AddSecurityRequirement(security);
+
+                swagger.AddSecurityDefinition(IssuerName, new ApiKeyScheme
                 {
-                    options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
-                    {
-                         ValidateIssuer = true,
-                         ValidateAudience = true,
-                         ValidateLifetime = true,
-                         ValidateIssuerSigningKey = true,
-                         ValidIssuer = Configuration["Jwt:Issuer"],
-                         ValidAudience = Configuration["Jwt:Audience"],
-                         IssuerSigningKey = new SymmetricSecurityKey
-                                            (Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
-                    };
+                    Description = "JWT授权(数据将在请求头中进行传输) 直接在下框中输入Bearer token（注意两者之间是一个空格）\"",
+                    Name = "Authorization",//jwt默认的参数名称
+                    In = "header",//jwt默认存放Authorization信息的位置(请求头中)
+                    Type = "apiKey"
                 });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -68,30 +93,14 @@ namespace JwtDemo
             }
 
             app.UseAuthentication();
-
             app.UseHttpsRedirection();
-            //app.UseMvc();
+            app.UseMvc();
 
 
             app.UseSwagger();
             app.UseSwaggerUI(swagger =>
             {
                 swagger.SwaggerEndpoint("/swagger/v1/swagger.json", "Swagger Demo");
-            });
-
-            app.UseMvc(routes =>
-            {
-                routes.MapRoute(
-                     name: "areaRoute",
-                     template: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
-
-                routes.MapRoute(
-                    name: "apiDefault",
-                    template: "api/{controller=Home}/{action=Index}/{id?}");
-
-                routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

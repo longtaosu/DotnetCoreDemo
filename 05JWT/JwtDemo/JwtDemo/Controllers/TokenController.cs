@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
 namespace JwtDemo.Controllers
@@ -18,6 +19,11 @@ namespace JwtDemo.Controllers
     [ApiController]
     public class TokenController : ControllerBase
     {
+        IConfiguration _configuration;
+        public TokenController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
         /// <summary>
         /// 
         /// </summary>
@@ -48,7 +54,7 @@ namespace JwtDemo.Controllers
 
             var token = new JwtSecurityToken(
                 new JwtHeader(new SigningCredentials(
-                    new SymmetricSecurityKey(Encoding.UTF8.GetBytes("the secret that needs to be at least 16 characeters long for HmacSha256")),
+                    new SymmetricSecurityKey(Encoding.ASCII.GetBytes(_configuration["Jwt:Key"])),
                                              SecurityAlgorithms.HmacSha256)),
                 new JwtPayload(claims));
 

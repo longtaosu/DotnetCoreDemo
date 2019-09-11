@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace JwtDemo.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class UserController : ControllerBase
     {
