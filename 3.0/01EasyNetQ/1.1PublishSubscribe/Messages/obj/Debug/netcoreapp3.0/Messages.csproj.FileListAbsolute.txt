@@ -1,0 +1,8 @@
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\bin\Debug\netcoreapp3.0\Messages.deps.json
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\bin\Debug\netcoreapp3.0\Messages.dll
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\obj\Debug\netcoreapp3.0\Messages.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\obj\Debug\netcoreapp3.0\Messages.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\bin\Debug\netcoreapp3.0\Messages.pdb
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\obj\Debug\netcoreapp3.0\Messages.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\obj\Debug\netcoreapp3.0\Messages.dll
+F:\03Github\06DotnetCoreDemo\01RabbitMQ\03EasyNetQ_BS\3.1PublishSubscribe\Messages\obj\Debug\netcoreapp3.0\Messages.pdb
