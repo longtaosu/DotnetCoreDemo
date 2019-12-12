@@ -1,0 +1,14 @@
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Client.exe
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Client.dll
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Client.pdb
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\IdentityModel.dll
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\obj\Debug\netcoreapp3.0\Client.csproj.CopyComplete
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\obj\Debug\netcoreapp3.0\Client.dll
+F:\03Github\06DotnetCoreDemo\3.0\02ID4\2.1客户端授权模式\ID4Demo\Client\obj\Debug\netcoreapp3.0\Client.pdb
