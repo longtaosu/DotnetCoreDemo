@@ -30,6 +30,8 @@ namespace SettingApi
             services.Configure<Xml_Section0>(Configuration.GetSection("xml_section0"));
             services.Configure<jsonSetting>(Configuration.GetSection("JsonSet"));
 
+            var name = Configuration.GetValue<string>("LTS:Name");
+
             services.AddControllers();
         }
 

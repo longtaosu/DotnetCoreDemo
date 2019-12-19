@@ -1,0 +1,9 @@
+2019-12-19 11:56:44.2041|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2019-12-19 11:56:44.3571|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2019-12-19 11:56:44.3571|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\03Github\06DotnetCoreDemo\3.1\基础\日志\LogDemo
+2019-12-19 11:56:48.1295|INFO|LogDemo.Controllers.WeatherForecastController|2019/12/19 11:56:48
+2019-12-19 12:35:46.1498|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2019-12-19 12:35:46.1995|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2019-12-19 12:35:46.1995|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\03Github\06DotnetCoreDemo\3.1\基础\日志\LogDemo
+2019-12-19 12:35:49.2717|INFO|LogDemo.Controllers.WeatherForecastController|2019/12/19 12:35:49
+2019-12-19 12:35:50.9307|INFO|LTS.Services.TestService|该记录来自服务，时间2019/12/19 12:35:50

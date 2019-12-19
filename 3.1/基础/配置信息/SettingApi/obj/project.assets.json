@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\Demo\\SettingDemo\\SettingDemo\\SettingApi\\SettingApi.csproj",
+      "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\基础\\配置信息\\SettingApi\\SettingApi.csproj",
       "projectName": "SettingApi",
-      "projectPath": "C:\\Users\\Gdky\\Desktop\\Demo\\SettingDemo\\SettingDemo\\SettingApi\\SettingApi.csproj",
+      "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\基础\\配置信息\\SettingApi\\SettingApi.csproj",
       "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gdky\\Desktop\\Demo\\SettingDemo\\SettingDemo\\SettingApi\\obj\\",
+      "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\基础\\配置信息\\SettingApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
