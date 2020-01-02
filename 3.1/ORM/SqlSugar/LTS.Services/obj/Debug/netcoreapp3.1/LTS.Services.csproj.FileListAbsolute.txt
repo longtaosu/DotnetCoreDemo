@@ -1,0 +1,8 @@
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\bin\Debug\netcoreapp3.1\LTS.Services.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\bin\Debug\netcoreapp3.1\LTS.Services.dll
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\obj\Debug\netcoreapp3.1\LTS.Services.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\obj\Debug\netcoreapp3.1\LTS.Services.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\obj\Debug\netcoreapp3.1\LTS.Services.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\bin\Debug\netcoreapp3.1\LTS.Services.pdb
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\obj\Debug\netcoreapp3.1\LTS.Services.dll
+F:\03Github\06DotnetCoreDemo\3.1\ORM\SqlSugar\LTS.Services\obj\Debug\netcoreapp3.1\LTS.Services.pdb

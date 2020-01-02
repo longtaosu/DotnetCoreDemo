@@ -1,0 +1,8 @@
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\bin\Debug\netcoreapp3.1\ConsoleModels.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\bin\Debug\netcoreapp3.1\ConsoleModels.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\bin\Debug\netcoreapp3.1\ConsoleModels.pdb
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\obj\Debug\netcoreapp3.1\ConsoleModels.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\obj\Debug\netcoreapp3.1\ConsoleModels.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\obj\Debug\netcoreapp3.1\ConsoleModels.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\obj\Debug\netcoreapp3.1\ConsoleModels.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\MassTransitMQ\MassTransitMQDemo\ConsoleModels\obj\Debug\netcoreapp3.1\ConsoleModels.pdb

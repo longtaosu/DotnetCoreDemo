@@ -1,0 +1,8 @@
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\bin\Debug\netcoreapp3.1\DIDemo.Services.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\bin\Debug\netcoreapp3.1\DIDemo.Services.dll
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\bin\Debug\netcoreapp3.1\DIDemo.Services.pdb
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\obj\Debug\netcoreapp3.1\DIDemo.Services.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\obj\Debug\netcoreapp3.1\DIDemo.Services.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\obj\Debug\netcoreapp3.1\DIDemo.Services.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\obj\Debug\netcoreapp3.1\DIDemo.Services.dll
+F:\03Github\06DotnetCoreDemo\3.1\基础\依赖注入\DIDemo\DIDemo.Services\obj\Debug\netcoreapp3.1\DIDemo.Services.pdb
