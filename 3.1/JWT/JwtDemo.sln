@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jwt_RoleBased", "Jwt_RoleBased\Jwt_RoleBased.csproj", "{B21834A5-2A89-41FA-8BF0-1BFE30983113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jwt_RoleBased", "Jwt_RoleBased\Jwt_RoleBased.csproj", "{B21834A5-2A89-41FA-8BF0-1BFE30983113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jwt_PolicyBased", "Jwt_PolicyBased\Jwt_PolicyBased.csproj", "{07684E94-13A8-41B2-87FF-8456E7FFE2E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B21834A5-2A89-41FA-8BF0-1BFE30983113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B21834A5-2A89-41FA-8BF0-1BFE30983113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B21834A5-2A89-41FA-8BF0-1BFE30983113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07684E94-13A8-41B2-87FF-8456E7FFE2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07684E94-13A8-41B2-87FF-8456E7FFE2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07684E94-13A8-41B2-87FF-8456E7FFE2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07684E94-13A8-41B2-87FF-8456E7FFE2E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
