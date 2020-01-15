@@ -57,5 +57,12 @@ namespace Jwt_RoleBased.Controllers
             var user = _users.FirstOrDefault(t => t.Id == id);
             return Ok(user);
         }
+
+        [HttpGet]
+        [Authorize(Roles = Role.Admin + "," + Role.User)]
+        public IActionResult GetByRole()
+        {
+            return Ok(_users);
+        }
     }
 }

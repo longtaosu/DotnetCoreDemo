@@ -6695,11 +6695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\JwtDemo\\Jwt_RoleBased\\Jwt_RoleBased.csproj",
+      "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\JWT\\Jwt_RoleBased\\Jwt_RoleBased.csproj",
       "projectName": "Jwt_RoleBased",
-      "projectPath": "C:\\Users\\Gdky\\Desktop\\JwtDemo\\Jwt_RoleBased\\Jwt_RoleBased.csproj",
+      "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\JWT\\Jwt_RoleBased\\Jwt_RoleBased.csproj",
       "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gdky\\Desktop\\JwtDemo\\Jwt_RoleBased\\obj\\",
+      "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\JWT\\Jwt_RoleBased\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
