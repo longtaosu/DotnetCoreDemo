@@ -14,6 +14,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+/// <summary>
+/// https://github.com/erisonnicodemos/aspnetcore3jwt/blob/master/Startup.cs
+/// </summary>
 namespace Jwt_RoleBased
 {
     public class Startup
