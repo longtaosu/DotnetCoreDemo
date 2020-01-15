@@ -15,7 +15,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 /// <summary>
-/// https://github.com/erisonnicodemos/aspnetcore3jwt/blob/master/Startup.cs
+/// https://github.com/cornflourblue/aspnet-core-3-basic-authentication-api
 /// </summary>
 namespace Jwt_RoleBased
 {
