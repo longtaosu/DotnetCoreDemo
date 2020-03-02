@@ -9,7 +9,9 @@ using Microsoft.Extensions.Logging;
 namespace ApiDemo.Controllers
 {
     [ApiController]
-    [Route("[controller]/[action]")]
+    [Area("Main")]
+    [Route("[area]/[controller]/[action]")]
+    //[Route("[controller]/[action]")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
