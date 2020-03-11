@@ -10,7 +10,7 @@
 
 新建 `wwwroot` 文件夹，添加images文件夹，添加图片两张，分别为 .net.png 和 vue.png（文件设置为较新则复制）。
 
-![](F:\03Github\06DotnetCoreDemo\3.1\静态文件\Images\02新建wwwroot文件夹.png)
+![02新建wwwroot文件夹.png](https://gitee.com/imstrive/ImageBed/raw/master/20200311/02新建wwwroot文件夹.png)
 
 在 Startup.Configure 中使用 `UseStaticFiles` 方法：
 
@@ -29,7 +29,7 @@ public void Configure(IApplicationBuilder app)
 
 也可以通过地址栏直接访问
 
-![](F:\03Github\06DotnetCoreDemo\3.1\静态文件\Images\03访问vue.png.png)
+![03访问vue.png.png](https://gitee.com/imstrive/ImageBed/raw/master/20200311/03访问vue.png.png)
 
 
 
@@ -64,7 +64,7 @@ app.UseStaticFiles(new StaticFileOptions
 
 也可以通过地址栏访问
 
-![](F:\03Github\06DotnetCoreDemo\3.1\静态文件\Images\04其他目录.png)
+![04其他目录.png](https://gitee.com/imstrive/ImageBed/raw/master/20200311/04其他目录.png)
 
 
 
@@ -86,7 +86,7 @@ app.UseStaticFiles(new StaticFileOptions
 
 效果如下：
 
-![](F:\03Github\06DotnetCoreDemo\3.1\静态文件\Images\05添加缓存.png)
+![05添加缓存.png](https://gitee.com/imstrive/ImageBed/raw/master/20200311/05添加缓存.png)
 
 
 
@@ -108,7 +108,11 @@ app.UseDirectoryBrowser(new DirectoryBrowserOptions
 
 效果如下
 
-![](F:\03Github\06DotnetCoreDemo\3.1\静态文件\Images\06目录浏览.png)
+![06目录浏览.png](https://gitee.com/imstrive/ImageBed/raw/master/20200311/06目录浏览.png)
+
+# 代码
+
+[Github](https://github.com/longtaosu/DotnetCoreDemo/tree/master/3.1/%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6)
 
 
 
