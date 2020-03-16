@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Long\\.nuget\\packages\\": {},
+    "C:\\Users\\Gdky\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Long\\Desktop\\SignalR\\ApiDemo\\ApiDemo.csproj",
+      "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\SignalR\\ApiDemo\\ApiDemo.csproj",
       "projectName": "ApiDemo",
-      "projectPath": "C:\\Users\\Long\\Desktop\\SignalR\\ApiDemo\\ApiDemo.csproj",
-      "packagesPath": "C:\\Users\\Long\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Long\\Desktop\\SignalR\\ApiDemo\\obj\\",
+      "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\SignalR\\ApiDemo\\ApiDemo.csproj",
+      "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
+      "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\SignalR\\ApiDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Long\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gdky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

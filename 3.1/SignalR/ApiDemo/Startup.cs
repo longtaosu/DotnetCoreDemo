@@ -40,7 +40,7 @@ namespace ApiDemo
             }
 
             app.UseCors(builder => {
-                builder.WithOrigins("http://localhost:8083")
+                builder.WithOrigins("http://localhost:8080")
                     .AllowAnyMethod()
                     .AllowCredentials()
                     .AllowAnyHeader();
