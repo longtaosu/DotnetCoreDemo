@@ -44,38 +44,20 @@ export default class Chat extends Vue {
 
         });
     }
-
-    // hubConnection = new signalR.HubConnectionBuilder()
-    //                     .withUrl("localhost:44342/chatHub")
-    //                     .configureLogging(signalR.LogLevel.Information)
-    //                     .build();
                
     start(): void {
-        console.log("start")
         this.hubConnection.start()
             .then(a=>{
                 if(this.hubConnection.connectionId){
-                    // this.hubConnection.invoke("sendConnectionId",this.hubConnection.connectionId);
-                    this.hubConnection.invoke("SendMessage",this.name,this.message).catch(err=>console.log(err.toString()));
+                    //this.hubConnection.invoke("SendMessage",this.name,this.message).catch(err=>console.log(err.toString()));
                 }
             });
         
-    }
-
-
-    // this.hubConnection.on("messageReceived",(username:string,message:string)=>{
-    //     let m = document.createElement("div");
-
-    //     m.innerHTML =  `<div class="message-author">${username}</div><div>${message}</div>`;
-
-    //     // divMessage.appendChild(m);
-    //     // divMessage.scrollTop = divMessage.scrollHeight;
-    // });      
+    }  
                 
     send(){
         console.log("发送信息")
-        this.hubConnection.send("SendMessage",this.name,this.message);
-        
+        this.hubConnection.send("SendMessage",this.name,this.message);        
     }
 }
 </script>
