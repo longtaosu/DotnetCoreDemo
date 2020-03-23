@@ -1,0 +1,13 @@
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\obj\Debug\netcoreapp3.1\Receiver.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\RabbitMQ.Client\TopicsDemo\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb

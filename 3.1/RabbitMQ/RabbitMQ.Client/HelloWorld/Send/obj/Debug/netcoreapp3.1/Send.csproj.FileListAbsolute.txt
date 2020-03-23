@@ -1,0 +1,13 @@
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\Send.exe
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\Send.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\Send.pdb
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\obj\Debug\netcoreapp3.1\Send.dll
+F:\03Github\06DotnetCoreDemo\3.1\RabbitMQ\官方Demo\HelloWorld\Send\obj\Debug\netcoreapp3.1\Send.pdb
