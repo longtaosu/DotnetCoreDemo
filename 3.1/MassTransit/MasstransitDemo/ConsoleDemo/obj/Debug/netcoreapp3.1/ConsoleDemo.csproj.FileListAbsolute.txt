@@ -1,0 +1,13 @@
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\ConsoleDemo.exe
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\Automatonymous.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\GreenPipes.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\MassTransit.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\NewId.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\MasstransitDemo\ConsoleDemo\obj\Debug\netcoreapp3.1\ConsoleDemo.csproj.CopyComplete
