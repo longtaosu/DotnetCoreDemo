@@ -1,0 +1,8 @@
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\bin\Debug\netcoreapp3.1\Lts.Services.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\bin\Debug\netcoreapp3.1\Lts.Services.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\bin\Debug\netcoreapp3.1\Lts.Services.pdb
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\obj\Debug\netcoreapp3.1\Lts.Services.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\obj\Debug\netcoreapp3.1\Lts.Services.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\obj\Debug\netcoreapp3.1\Lts.Services.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\obj\Debug\netcoreapp3.1\Lts.Services.dll
+F:\03Github\06DotnetCoreDemo\3.1\MassTransit\Routing\Lts.Services\obj\Debug\netcoreapp3.1\Lts.Services.pdb

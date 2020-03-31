@@ -4,6 +4,7 @@ using MassTransit;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleReceiver.Handlers
@@ -15,6 +16,7 @@ namespace ConsoleReceiver.Handlers
             var info = context.Message;
             return Task.Run(() =>
             {
+                Thread.Sleep(10000);
                 Console.WriteLine("控制台，{0}：{1}", info.time, info.info);
             });
         }

@@ -19,7 +19,7 @@ namespace ConsoleReceiver
 
                 cfg.ReceiveEndpoint("log", ep =>
                 {
-                    ep.PrefetchCount = 16;
+                    ep.PrefetchCount = 1;
                     ep.UseMessageRetry(r => r.Interval(10, 100));
 
                     ep.Consumer<TestInfoConsumer>();

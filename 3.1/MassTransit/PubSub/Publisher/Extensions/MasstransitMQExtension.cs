@@ -34,7 +34,7 @@ namespace Publisher.Extensions
                         //    cb.RoutingKey = "post,#";
                         //});
 
-                        ep.PrefetchCount = 16;
+                        ep.PrefetchCount = 1;
                         ep.UseMessageRetry(r => r.Interval(10,100));
 
                         ep.ConfigureConsumer<TestInfoConsumer>(provider);
