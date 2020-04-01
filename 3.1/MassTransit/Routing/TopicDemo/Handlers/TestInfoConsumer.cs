@@ -24,7 +24,7 @@ namespace TopicDemo.Handlers
                 _logService.PrintLog(string.Format("{0}：{1}_consumer1", info.time, info.info));
             });
         }
-    }
+}
 
     public class TestInfoConsumer2 : IConsumer<TestInfo>
     {
