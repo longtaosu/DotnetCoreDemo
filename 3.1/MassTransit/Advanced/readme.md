@@ -18,7 +18,7 @@ cfg.ReceiveEndpoint("lts111", ep =>
 
 > 异常发生时，会生成一个异常队列，发生异常的信息会保存至该异常队列。如上例中创建队列“lts111”，异常发生时会创建异常队列“lts111_error”
 
-(https://gitee.com/imstrive/ImageBed/raw/master/20200401/error_queue.png)
+![error_queue.png](https://gitee.com/imstrive/ImageBed/raw/master/20200401/error_queue.png)
 
 
 # 限流
