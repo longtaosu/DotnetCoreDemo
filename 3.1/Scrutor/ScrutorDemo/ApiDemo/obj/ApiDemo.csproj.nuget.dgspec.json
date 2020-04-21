@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj": {}
+    "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj": {}
   },
   "projects": {
-    "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj": {
+    "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj",
+        "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj",
         "projectName": "ApiDemo",
-        "projectPath": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj",
-        "packagesPath": "C:\\Users\\Long\\.nuget\\packages\\",
-        "outputPath": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\obj\\",
+        "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\ApiDemo.csproj",
+        "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
+        "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\ApiDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Long\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gdky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj": {
-                "projectPath": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj"
+              "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj": {
+                "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj": {
+    "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj",
+        "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj",
         "projectName": "Demo.Services",
-        "projectPath": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj",
-        "packagesPath": "C:\\Users\\Long\\.nuget\\packages\\",
-        "outputPath": "F:\\10MyGithub\\08DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\obj\\",
+        "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\Demo.Services.csproj",
+        "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
+        "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Scrutor\\ScrutorDemo\\Demo.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Long\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gdky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
