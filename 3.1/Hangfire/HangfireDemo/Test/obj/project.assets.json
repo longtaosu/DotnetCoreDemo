@@ -6756,11 +6756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\HangfireDemo\\HangfireDemo\\Test\\Test.csproj",
+      "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Hangfire\\HangfireDemo\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Gdky\\Desktop\\HangfireDemo\\HangfireDemo\\Test\\Test.csproj",
+      "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Hangfire\\HangfireDemo\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gdky\\Desktop\\HangfireDemo\\HangfireDemo\\Test\\obj\\",
+      "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Hangfire\\HangfireDemo\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

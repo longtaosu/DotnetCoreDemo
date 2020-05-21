@@ -1,0 +1,8 @@
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\bin\Debug\netcoreapp3.1\ImageLib.deps.json
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\bin\Debug\netcoreapp3.1\ImageLib.dll
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\obj\Debug\netcoreapp3.1\ImageLib.csprojAssemblyReference.cache
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\obj\Debug\netcoreapp3.1\ImageLib.AssemblyInfoInputs.cache
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\obj\Debug\netcoreapp3.1\ImageLib.AssemblyInfo.cs
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\bin\Debug\netcoreapp3.1\ImageLib.pdb
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\obj\Debug\netcoreapp3.1\ImageLib.dll
+F:\03Github\06DotnetCoreDemo\3.1\ImageSharp\ImageLib\obj\Debug\netcoreapp3.1\ImageLib.pdb

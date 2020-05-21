@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ImageLib/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.4",
+          "SixLabors.Fonts": "1.0.0-beta0011",
+          "SixLabors.ImageSharp": "1.0.0-rc0001",
+          "SixLabors.ImageSharp.Drawing": "1.0.0-beta0008"
+        },
+        "runtime": {
+          "ImageLib.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.4": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.4.0",
+            "fileVersion": "3.100.420.21409"
+          }
+        }
+      },
+      "SixLabors.Fonts/1.0.0-beta0011": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SixLabors.Fonts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/1.0.0-rc0001": {
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp.Drawing/1.0.0-beta0008": {
+        "dependencies": {
+          "SixLabors.Fonts": "1.0.0-beta0011",
+          "SixLabors.ImageSharp": "1.0.0-rc0001"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/SixLabors.ImageSharp.Drawing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {},
+      "System.Runtime.CompilerServices.Unsafe/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "ImageLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AceHamXNKDMDwIoZqEoApLp8s3935wSC3VXrPaRWa0wWOaEcYdDlo1nWQ1zLiezoDmpJzV7FqDm53E0Ty/hEMg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.4",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512"
+    },
+    "SixLabors.Fonts/1.0.0-beta0011": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hJCK3KTyRpn7HzUTk3plFrF7cxb8CgltFWcrjqDRIMImEsjuwPTrifLUxm6cUSTpxtacZXXrYh7Kd4NiIvdrgw==",
+      "path": "sixlabors.fonts/1.0.0-beta0011",
+      "hashPath": "sixlabors.fonts.1.0.0-beta0011.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/1.0.0-rc0001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lxQYvAv8vTp0QD1MafqUP1t8kbwy/2wolqHwymCMeozcfGNnYKNXlLSzwVQRoGXBOVRWgvU4f07hXCNmCLN4Ug==",
+      "path": "sixlabors.imagesharp/1.0.0-rc0001",
+      "hashPath": "sixlabors.imagesharp.1.0.0-rc0001.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp.Drawing/1.0.0-beta0008": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZiWAnQSO6deV6j82wMJR/75g04Oy91gXLiHDAX/CjGyLd9UIPFfxUAah2xqMWClFqkliu3wUh8FfsEz3jcIg1A==",
+      "path": "sixlabors.imagesharp.drawing/1.0.0-beta0008",
+      "hashPath": "sixlabors.imagesharp.drawing.1.0.0-beta0008.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IpU1lcHz8/09yDr9N+Juc7SCgNUz+RohkCQI+KsWKR67XxpFr8Z6c8t1iENCXZuRuNCc4HBwme/MDHNVCwyAKg==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+    }
+  }
+}

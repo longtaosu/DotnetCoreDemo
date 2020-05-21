@@ -25,9 +25,9 @@ namespace Test.Controllers
         [HttpGet]
         public void TestCron()
         {
-            //RecurringJob.AddOrUpdate("testCronJob", () => Test.PrintInfo("CronJob") ,"0/5 * * * * ?");
+            RecurringJob.AddOrUpdate("testCronJob", () => Test.PrintInfo("CronJob"), "0/5 * * * * ?");
 
-            RecurringJob.AddOrUpdate("testCronJob", () => Test.PrintInfo("CronJob"), Cron.Minutely);
+            //RecurringJob.AddOrUpdate("testCronJob", () => Test.PrintInfo("CronJob"), Cron.Minutely);
         }
 
         /// <summary>
