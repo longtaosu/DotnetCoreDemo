@@ -41,7 +41,6 @@ namespace ImageLib
                 for (int i = 0; i < code.Length; i++)
                 {
                     ctx.DrawText(code[i].ToString(), font, Colors[r.Next(Colors.Length)], 
-                        //new PointF(20 * i + 5, r.Next(2, 12))
                         new PointF((this._width-10) * i /code.Length  + 5,r.Next(this._height / 5 ,this._height / 4 ))
                         );
                 }
