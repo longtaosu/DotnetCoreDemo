@@ -139,4 +139,6 @@ public class DoExpensiveCalculationAndStore : IInvocable
 
 <https://github.com/jamesmh/coravel>
 
+<https://docs.coravel.net/Scheduler/>
+
 <https://www.cnblogs.com/jerrymouseli/p/11054546.html>
