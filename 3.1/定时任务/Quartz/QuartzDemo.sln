@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDemo", "ConsoleDemo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDemo", "ApiDemo\ApiDemo.csproj", "{A245999D-2C16-42EF-9205-533081FF7202}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIDemo", "DIDemo\DIDemo.csproj", "{D600AD83-C952-4F9F-831B-A09365727DD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A245999D-2C16-42EF-9205-533081FF7202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A245999D-2C16-42EF-9205-533081FF7202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A245999D-2C16-42EF-9205-533081FF7202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D600AD83-C952-4F9F-831B-A09365727DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D600AD83-C952-4F9F-831B-A09365727DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D600AD83-C952-4F9F-831B-A09365727DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D600AD83-C952-4F9F-831B-A09365727DD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
