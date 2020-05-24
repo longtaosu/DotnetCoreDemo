@@ -36,7 +36,7 @@ namespace ApiDemo
             services.AddHostedService<QuartzHostedService>();
 
             services.AddSingleton<PrintJob>();
-            services.AddSingleton(new JobSchedule(jobType: typeof(PrintJob), cronExpression: "0/5 * * * * ?"));
+            services.AddSingleton(new JobSchedule(jobType: typeof(PrintJob), cronExpression: "0/3 * * * * ?"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

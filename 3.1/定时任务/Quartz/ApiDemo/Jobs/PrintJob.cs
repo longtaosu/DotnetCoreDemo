@@ -31,8 +31,6 @@ namespace ApiDemo.Quartz
 
             _logger.LogInformation($"执行时间：{DateTime.Now}");
             return Task.CompletedTask;
-
-
         }
     }
 }

@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Quartz\ServiceRunner.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Quartz\d3avzrav.32b~" />
     <None Remove="Services\QuartzService.cs~RF3f1fa255.TMP" />
   </ItemGroup>
