@@ -9083,11 +9083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ApiDemo\\ApiDemo.csproj",
+      "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ApiDemo\\ApiDemo.csproj",
       "projectName": "ApiDemo",
-      "projectPath": "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ApiDemo\\ApiDemo.csproj",
+      "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ApiDemo\\ApiDemo.csproj",
       "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ApiDemo\\obj\\",
+      "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ApiDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

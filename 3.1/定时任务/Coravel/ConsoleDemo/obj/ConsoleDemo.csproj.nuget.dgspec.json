@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ConsoleDemo\\ConsoleDemo.csproj": {}
+    "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ConsoleDemo\\ConsoleDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ConsoleDemo\\ConsoleDemo.csproj": {
+    "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ConsoleDemo\\ConsoleDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ConsoleDemo\\ConsoleDemo.csproj",
+        "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ConsoleDemo\\ConsoleDemo.csproj",
         "projectName": "ConsoleDemo",
-        "projectPath": "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ConsoleDemo\\ConsoleDemo.csproj",
+        "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ConsoleDemo\\ConsoleDemo.csproj",
         "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gdky\\Desktop\\TopShelfDemo\\CoravelDemo\\ConsoleDemo\\obj\\",
+        "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\定时任务\\Coravel\\ConsoleDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
