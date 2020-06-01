@@ -6042,11 +6042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gdky\\Desktop\\Practice\\Setting\\Test\\Test.csproj",
+      "projectUniqueName": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Environment\\Setting\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Gdky\\Desktop\\Practice\\Setting\\Test\\Test.csproj",
+      "projectPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Environment\\Setting\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Gdky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gdky\\Desktop\\Practice\\Setting\\Test\\obj\\",
+      "outputPath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Environment\\Setting\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6061,7 +6061,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://repo.huaweicloud.com/repository/nuget/v3/index.json": {}
+        "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -6092,6 +6092,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6100,7 +6106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

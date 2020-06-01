@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8dpqkt6T3Gbz5bbc7GZyGYOHX4LLaOXSS9naDSjpwuameGGbUuAZtlNzcONnQpwZstOJrpnbDpc8jYedfsYkcw==",
+  "dgSpecHash": "uNrcy7RAOs7lfe6gP0qGvLaW0+ylb+/+AprksMUg6ktM1jGuvhG1IjWBe7bH6ajfWKoJtsWfTm5X34GCzXaTFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gdky\\Desktop\\Practice\\Setting\\ApiDemo\\ApiDemo.csproj",
+  "projectFilePath": "F:\\03Github\\06DotnetCoreDemo\\3.1\\Environment\\Setting\\ApiDemo\\ApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gdky\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Gdky\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -110,7 +110,8 @@
     "C:\\Users\\Gdky\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\Gdky\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Gdky\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Gdky\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Gdky\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Gdky\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
