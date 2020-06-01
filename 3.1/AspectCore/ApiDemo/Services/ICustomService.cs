@@ -1,4 +1,5 @@
 ﻿using ApiDemo.Interceptors;
+using AspectCore.DynamicProxy.Parameters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,9 @@ namespace ApiDemo.Services
     {
         [CustomInterceptor]
         void Call();
+
+        
+        void Call_Params();
     }
 
     public class CustomService : ICustomService
@@ -19,6 +23,14 @@ namespace ApiDemo.Services
             if ((new Random().Next(1, 10)) % 2 == 0)
                 Console.WriteLine("Service calling ...");
             else 
+                throw new Exception("error happening ...");
+        }
+
+        public void Call_Params()
+        {
+            if ((new Random().Next(1, 10)) % 2 == 0)
+                Console.WriteLine("Service calling ...");
+            else
                 throw new Exception("error happening ...");
         }
     }

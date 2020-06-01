@@ -22,5 +22,10 @@ namespace ApiDemo.Controllers
         {
             _service.Call();
         }
+
+        public void Test_Params()
+        {
+            _service.Call_Params();
+        }
     }
 }
