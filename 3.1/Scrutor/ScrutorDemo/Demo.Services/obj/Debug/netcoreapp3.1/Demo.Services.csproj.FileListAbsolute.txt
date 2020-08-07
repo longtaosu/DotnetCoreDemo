@@ -1,8 +1,0 @@
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\bin\Debug\netcoreapp3.1\Demo.Services.deps.json
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\bin\Debug\netcoreapp3.1\Demo.Services.dll
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\bin\Debug\netcoreapp3.1\Demo.Services.pdb
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\obj\Debug\netcoreapp3.1\Demo.Services.csprojAssemblyReference.cache
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\obj\Debug\netcoreapp3.1\Demo.Services.AssemblyInfoInputs.cache
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\obj\Debug\netcoreapp3.1\Demo.Services.AssemblyInfo.cs
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\obj\Debug\netcoreapp3.1\Demo.Services.dll
-F:\10MyGithub\08DotnetCoreDemo\3.1\Scrutor\ScrutorDemo\Demo.Services\obj\Debug\netcoreapp3.1\Demo.Services.pdb

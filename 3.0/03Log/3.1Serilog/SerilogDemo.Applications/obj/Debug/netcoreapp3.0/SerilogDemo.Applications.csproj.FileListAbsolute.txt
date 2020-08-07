@@ -1,7 +1,0 @@
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\bin\Debug\netcoreapp3.0\SerilogDemo.Applications.deps.json
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\bin\Debug\netcoreapp3.0\SerilogDemo.Applications.dll
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\bin\Debug\netcoreapp3.0\SerilogDemo.Applications.pdb
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\obj\Debug\netcoreapp3.0\SerilogDemo.Applications.AssemblyInfoInputs.cache
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\obj\Debug\netcoreapp3.0\SerilogDemo.Applications.AssemblyInfo.cs
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\obj\Debug\netcoreapp3.0\SerilogDemo.Applications.dll
-C:\Users\Gdky\Desktop\Demo\SerilogDemo\SerilogDemo\SerilogDemo.Applications\obj\Debug\netcoreapp3.0\SerilogDemo.Applications.pdb

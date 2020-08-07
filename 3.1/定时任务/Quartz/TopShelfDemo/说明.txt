@@ -1,0 +1,18 @@
+﻿命令行(需要使用管理员权限启动)
+  切换磁盘（如d盘）：d:
+  进入目录：cd [路径]
+
+后台任务：
+  安装：TopShelfDemo.exe install
+  启动：TopShelfDemo.exe start
+  停止：TopShelfDemo.exe stop
+  卸载：TopShelfDemo.exe uninstall
+
+Jobs:
+  Job定义，名称需要是以：_Job结尾
+
+Extensions/ServicesInjection：
+  服务注入，新增加的服务需要在这里进行依赖注入
+
+Service：
+  业务实现，编写同客服Web端

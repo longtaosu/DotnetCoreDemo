@@ -1,8 +1,0 @@
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\bin\Debug\netcoreapp3.1\Lts.Models.deps.json
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\bin\Debug\netcoreapp3.1\Lts.Models.dll
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\bin\Debug\netcoreapp3.1\Lts.Models.pdb
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\obj\Debug\netcoreapp3.1\Lts.Models.csprojAssemblyReference.cache
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\obj\Debug\netcoreapp3.1\Lts.Models.AssemblyInfoInputs.cache
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\obj\Debug\netcoreapp3.1\Lts.Models.AssemblyInfo.cs
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\obj\Debug\netcoreapp3.1\Lts.Models.dll
-F:\03Github\06DotnetCoreDemo\3.1\MassTransit\PubSub\Lts.Models\obj\Debug\netcoreapp3.1\Lts.Models.pdb

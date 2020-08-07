@@ -1,2 +1,0 @@
-2019-12-19 16:22:30.2187 | Info | LogDemo.Controllers.WeatherForecastController.Get | 这是一条提示信息2019/12/19 16:22:30 | 
-2019-12-19 16:22:30.2187 | Info | LTS.Services.TestService.Test | 该记录来自服务，时间2019/12/19 16:22:30 | 

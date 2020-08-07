@@ -1,8 +1,0 @@
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.deps.json
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.dll
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\bin\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.pdb
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.csproj.CoreCompileInputs.cache
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.AssemblyInfoInputs.cache
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.AssemblyInfo.cs
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.dll
-C:\Users\Gdky\Desktop\DotnetCore\02Autofac\AutofacDemo.ConfigurationInterface\obj\Debug\netcoreapp2.2\AutofacDemo.ConfigurationInterface.pdb

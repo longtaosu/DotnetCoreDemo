@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{9C06839E-A5A0-4047-ADA0-E30D3DB3753C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDemo", "ApiDemo\ApiDemo.csproj", "{A245999D-2C16-42EF-9205-533081FF7202}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiDemo", "ApiDemo\ApiDemo.csproj", "{A245999D-2C16-42EF-9205-533081FF7202}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIDemo", "DIDemo\DIDemo.csproj", "{D600AD83-C952-4F9F-831B-A09365727DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIDemo", "DIDemo\DIDemo.csproj", "{D600AD83-C952-4F9F-831B-A09365727DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopShelfDemo", "TopShelfDemo\TopShelfDemo.csproj", "{5109178E-5C54-4D2F-8B97-9A7D43327932}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D600AD83-C952-4F9F-831B-A09365727DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D600AD83-C952-4F9F-831B-A09365727DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D600AD83-C952-4F9F-831B-A09365727DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5109178E-5C54-4D2F-8B97-9A7D43327932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5109178E-5C54-4D2F-8B97-9A7D43327932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5109178E-5C54-4D2F-8B97-9A7D43327932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5109178E-5C54-4D2F-8B97-9A7D43327932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

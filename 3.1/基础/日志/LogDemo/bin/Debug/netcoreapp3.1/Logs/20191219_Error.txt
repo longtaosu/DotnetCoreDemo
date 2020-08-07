@@ -1,4 +1,0 @@
-2019-12-19 16:22:30.2187 | Error | LogDemo.Controllers.WeatherForecastController.Get | 这是一条错误信息2019/12/19 16:22:30 | 
-2019-12-19 16:22:30.2680 | Error | LogDemo.Controllers.WeatherForecastController.Get | System.DivideByZeroException: Attempted to divide by zero.
-   at LTS.Services.TestService.Test() in F:\03Github\06DotnetCoreDemo\3.1\基础\日志\LTS.Services\TestService.cs:line 23
-   at LogDemo.Controllers.WeatherForecastController.Get() in F:\03Github\06DotnetCoreDemo\3.1\基础\日志\LogDemo\Controllers\WeatherForecastController.cs:line 37 | 
