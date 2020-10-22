@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HttpReports.Dashboard" Version="2.0.16" />
+    <PackageReference Include="HttpReports.SQLServer" Version="2.0.16" />
+  </ItemGroup>
+
+
+</Project>
