@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OfficialDemo</name>
+    </assembly>
+    <members>
+        <member name="M:OfficialDemo.Controllers.SummaryController.GetDbCollections">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OfficialDemo.Controllers.SummaryController.QueryByOrder(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

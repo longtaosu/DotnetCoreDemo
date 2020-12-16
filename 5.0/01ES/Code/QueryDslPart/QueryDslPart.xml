@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QueryDslPart</name>
+    </assembly>
+    <members>
+        <member name="M:QueryDslPart.Controllers.CompoundController.BoolQuery(System.String,System.Int32,System.Int32)">
+            <summary>
+            多条件查询,★★★★★★★★★★
+            </summary>
+            <param name="name"></param>
+            <param name="min"></param>
+            <param name="max"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.CompoundController.FluentDSL">
+            <summary>
+            boosting 查询可以用来有效地降级能匹配给定查询的结果。 与 bool 查询中的“NOT”子句不同，这仍然会选择包含非预期条款的文档，但会降低其总分。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.CompoundController.ConstantScore">
+            <summary>
+            此查询可对另一个查询进行包装，并简单地返回一个与该过滤器中每个文档的查询提升相等的常量分数
+            搞不懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.CompoundController.DismaxQuery(System.String,System.Int32,System.Int32)">
+            <summary>
+            此查询生成由其子查询生成的文档的并集，并为每个文档分配由任意子查询生成的该文档的最大分数，以及任何其他匹配子查询的分数增量即 tie breaking 属性。
+            ★★★★★★★★★★
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:QueryDslPart.Controllers.FullTextController">
+            <summary>
+            https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/full-text-queries.html
+            </summary>
+        </member>
+        <member name="M:QueryDslPart.Controllers.FullTextController.CommonTerms1(System.String)">
+            <summary>
+            https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/common-terms-usage.html
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.FullTextController.Intervals1(System.String)">
+            <summary>
+            该方案已过时
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.FullTextController.MatchBoolPrefix1(System.String)">
+            <summary>
+            前缀匹配
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.JoiningController.HasChild(System.String)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.JoiningController.HasParent(System.String)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.JoiningController.NestedQuery(System.Collections.Generic.List{System.String})">
+            <summary>
+            一种对象类型的特殊版本，它允许索引对象数组，独立地索引每个对象
+            运行失败
+            </summary>
+            <param name="names"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanContainingQuery(System.String,System.Int32)">
+            <summary>
+            返回包含另一个span查询的匹配项。
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanFieldMaskingQuery(System.String)">
+            <summary>
+            包装器允许span查询通过欺骗他们的搜索字段来参与复合单字段跨度查询。跨域字段屏蔽查询映射到Lucene的SpanFieldMaskingQuery
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanFirstQuery(System.String)">
+            <summary>
+            匹配跨越一个字段的开头。
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanMultiTermQuery(System.String)">
+            <summary>
+            span_multi查询允许您将多项查询（通配符，模糊，前缀，范围或正则表达式查询之一）包装为Span查询，因此可以嵌套。
+            name_?123，可以使用多种模糊查询的组合进行查询。★★★★★
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanNearQuery(System.String)">
+            <summary>
+            彼此接近的匹配跨距。可以指定坡度，中间不匹配位置的最大数量，以及匹配是否需要排序。
+            没搞懂
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanNotQuery(System.String,System.Int32)">
+            <summary>
+            删除与另一个span查询重叠的匹配项。
+            没搞懂
+            </summary>
+            <param name="name"></param>
+            <param name="age"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpanController.SpanWithinQuery(System.String)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.DistanceFeatureQuery">
+            <summary>
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.MoreLikeThisFullDocument(QueryDslPart.Models.Person)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="person"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.MoreLikeThisQuery(QueryDslPart.Models.Person,System.String)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="person"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.PercolateQuery(QueryDslPart.Models.Person)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="person"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.PinnedQuery">
+            <summary>
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.RankFeatureQuery">
+            <summary>
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.ScriptScoreQuery">
+            <summary>
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.ScriptQuery">
+            <summary>
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.SpecializedController.ShapeQuery">
+            <summary>
+            没搞懂
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:QueryDslPart.Controllers.TermLevelController">
+            <summary>
+            https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/term-level-queries.html
+            </summary>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.FuzzyDateQuery">
+            <summary>
+            没搞明白
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.FuzzyNumericQuery(System.Int32)">
+            <summary>
+            没搞明白
+            </summary>
+            <param name="age"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.IdsQuery(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            仅仅过滤与所提供的ID相匹配的文档，查询使用 _uid 字段
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.PrefixQuery(System.String)">
+            <summary>
+            前缀查询，匹配包含具有指定前缀的项 ★★★★★
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.DateRangeQuery(System.DateTime,System.DateTime)">
+            <summary>
+            根据限定时间段筛选数据 ★★★
+            </summary>
+            <param name="start"></param>
+            <param name="end"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.LongRangeQuery(System.Int32,System.Int32)">
+            <summary>
+            数值范围内数据筛选，范围值类型 long ★★★
+            </summary>
+            <param name="lowAge"></param>
+            <param name="highAge"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.NumericRangeQuery(System.Int32,System.Int32)">
+            <summary>
+            数值范围内数据筛选，范围值类型 double ★★★★
+            </summary>
+            <param name="min"></param>
+            <param name="max"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.TermRangeQuery(System.String,System.String)">
+            <summary>
+            字符串范围内数据筛选，范围值类型 string ★★★★
+            </summary>
+            <param name="min"></param>
+            <param name="max"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.RegexpQuery(System.String)">
+            <summary>
+            正则表达式查询：name_*23 ，★★★★★
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.TermQuery(System.String)">
+            <summary>
+            字段的准确匹配，相等筛选，★★★★
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.TermsListQuery(System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="names"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.TermsLookup(System.String)">
+            <summary>
+            没搞懂
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.TermsQuery(System.Collections.Generic.List{System.String})">
+            <summary>
+            筛选所拥有的字段能够匹配提供的多个项（not analyzed）中任意一个的文档。★★★★
+            </summary>
+            <param name="names"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QueryDslPart.Controllers.TermLevelController.WildcardQuery(System.String)">
+            <summary>
+            通配符查询，通配符包括： *,? 
+            需要注意，通配符项不应以 *,? 开头。★★★★★
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
